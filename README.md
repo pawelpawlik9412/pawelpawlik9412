@@ -26,8 +26,6 @@
 
 ### Github stats:
 [![Paweł Pawlik GitHub stats](https://github-readme-stats-azure-five-72.vercel.app/api?username=pawelpawlik9412)](https://github.com/pawelpawlik9412/github-readme-stats)
-<!---
 [![Top Langs](https://github-readme-stats-azure-five-72.vercel.app/api/top-langs/?username=pawelpawlik9412&layout=compact)](https://github.com/pawelpawlik9412/github-readme-stats)
--->
 
 [linkedin]: https://www.linkedin.com/in/pawe%C5%82-pawlik-49a5301bb
